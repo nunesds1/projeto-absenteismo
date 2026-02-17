@@ -10,33 +10,9 @@ A solução foi estruturada seguindo boas práticas de engenharia de dados, com 
 
 # ⚙️ Estrutura do projeto
 
-CASE-ABSENTEISMO/
-│
-├── banco_de_eventos/              # Arquivos brutos de eventos de absenteísmo
-├── banco_de_headcount/           # Base de colaboradores
-├── bancos_complementares/        # Bases auxiliares (CID, dados demográficos, etc.)
-│
-├── Dashboard/                    # Arquivo do Power BI
-│
-├── data/                         # Camadas do pipeline de dados
-│   ├── raw/                      # Dados ingeridos sem tratamento
-│   ├── bronze/                   # Persistência inicial (opcional para histórico)
-│   ├── silver/                   # Dados tratados e padronizados
-│   ├── stg/                      # Área de staging com regras de negócio
-│   └── gold/                     # Camada analítica (modelo dimensional)
-│
-├── imagens/                      # Diagramas e imagens utilizadas no README
-│
-├── notebooks/                    # Análises exploratórias e validações
-│
-├── src/
-│   └── Cargas/                   # Scripts de engenharia de dados
-│       ├── Raw/                  # Scripts de ingestão
-│       ├── Staging/              # Scripts de transformação
-│       └── Gold/                 # Scripts de modelagem analítica
-│
-├── Case Absenteismo.pdf          # Documento do desafio
-└── README.md
+<p align="center">
+  <img src="./imagens/Estrutura_pastas.png" width="800"/>
+</p>
 
 
 # ⚙️ Execução do Projeto
@@ -120,7 +96,7 @@ O painel foi construído a partir de um modelo dimensional (fato + dimensões), 
 - Ocorrências (Eventos que e seus motivos)
 
 <p align="center">
-  <img src="./imagens/Metrica_ABS.png" width="200"/>
+  <img src="./imagens/Metrica_ABS.png" width="400"/>
 </p>
 
 ### 📊 Visão de Absenteísmo
