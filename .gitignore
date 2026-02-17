@@ -6,7 +6,7 @@ env/
 
 # Dados
 #data/
-*.parquet
+#*.parquet
 
 #*.csv
 
