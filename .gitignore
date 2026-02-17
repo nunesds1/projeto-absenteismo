@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv
+env/
+
+# Dados
+data/
+*.parquet
+
+#*.csv
+
+# VSCode
+.vscode/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db

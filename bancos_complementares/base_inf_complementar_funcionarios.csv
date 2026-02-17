@@ -1,0 +1,851 @@
+id_funcionario;sexo;faixa_etaria;escolaridade;tempo_empresa_anos;tipo_contrato;modalidade_trabalho;cidade;pcd
+FUNC0001;M;56+;Superior Incompleto;3.8;CLT;Remoto;João Pessoa;Não
+FUNC0002;F;18-25;Superior Incompleto;3.8;CLT;Remoto;Fortaleza;Não
+FUNC0003;M;26-35;Superior Completo;3.2;CLT;Híbrido;Recife;Não
+FUNC0004;F;36-45;Pós-graduação;2.3;CLT;Presencial;Fortaleza;Não
+FUNC0005;F;26-35;Ensino Médio;1.4;CLT;Presencial;Fortaleza;Não
+FUNC0006;F;26-35;Superior Completo;4.0;CLT;Remoto;Natal;Não
+FUNC0007;M;46-55;Superior Incompleto;6.9;PJ;Remoto;Teresina;Não
+FUNC0008;F;26-35;Superior Completo;12.5;CLT;Remoto;Fortaleza;Sim
+FUNC0009;M;26-35;Superior Completo;6.4;CLT;Híbrido;Natal;Não
+FUNC0010;M;46-55;Superior Completo;1.8;CLT;Presencial;Teresina;Não
+FUNC0011;F;46-55;Superior Completo;7.4;CLT;Híbrido;Recife;Não
+FUNC0012;M;18-25;Ensino Médio;6.9;CLT;Presencial;João Pessoa;Não
+FUNC0013;M;26-35;Superior Incompleto;3.9;CLT;Remoto;Teresina;Não
+FUNC0014;M;36-45;Ensino Médio;3.2;PJ;Presencial;João Pessoa;Não
+FUNC0015;F;26-35;Superior Completo;0.5;CLT;Híbrido;Teresina;Não
+FUNC0016;M;26-35;Ensino Médio;1.4;CLT;Presencial;Fortaleza;Não
+FUNC0017;M;36-45;Superior Incompleto;4.3;CLT;Presencial;Fortaleza;Não
+FUNC0018;M;36-45;Pós-graduação;5.5;CLT;Híbrido;Recife;Não
+FUNC0019;F;36-45;Pós-graduação;6.0;CLT;Híbrido;Teresina;Não
+FUNC0020;M;26-35;Superior Incompleto;6.1;CLT;Presencial;Fortaleza;Não
+FUNC0021;M;56+;Ensino Médio;3.4;CLT;Remoto;Fortaleza;Não
+FUNC0022;M;56+;Pós-graduação;6.2;PJ;Presencial;Fortaleza;Não
+FUNC0023;F;46-55;Pós-graduação;2.5;CLT;Remoto;João Pessoa;Não
+FUNC0024;M;56+;Pós-graduação;5.2;CLT;Híbrido;Recife;Não
+FUNC0025;M;36-45;Ensino Médio;6.8;CLT;Híbrido;Fortaleza;Não
+FUNC0026;M;36-45;Superior Completo;8.3;PJ;Híbrido;Recife;Não
+FUNC0027;M;36-45;Superior Incompleto;4.5;CLT;Híbrido;Fortaleza;Não
+FUNC0028;M;26-35;Pós-graduação;0.2;PJ;Presencial;Teresina;Não
+FUNC0029;F;18-25;Superior Completo;4.2;CLT;Presencial;Natal;Não
+FUNC0030;M;26-35;Superior Incompleto;0.7;CLT;Presencial;Natal;Não
+FUNC0031;F;36-45;Superior Completo;6.0;PJ;Remoto;Natal;Sim
+FUNC0032;F;26-35;Ensino Médio;6.0;CLT;Remoto;João Pessoa;Não
+FUNC0033;M;36-45;Superior Completo;3.3;CLT;Presencial;Recife;Não
+FUNC0034;M;46-55;Ensino Médio;6.3;CLT;Presencial;João Pessoa;Não
+FUNC0035;F;26-35;Ensino Médio;0.6;CLT;Presencial;Natal;Não
+FUNC0036;F;36-45;Superior Completo;1.5;CLT;Presencial;Fortaleza;Não
+FUNC0037;M;56+;Superior Incompleto;0.5;CLT;Presencial;Teresina;Não
+FUNC0038;M;18-25;Ensino Médio;10.0;PJ;Presencial;Natal;Não
+FUNC0039;F;26-35;Superior Completo;3.5;CLT;Remoto;Fortaleza;Não
+FUNC0040;F;36-45;Pós-graduação;6.1;PJ;Híbrido;João Pessoa;Não
+FUNC0041;M;36-45;Superior Completo;4.0;PJ;Remoto;João Pessoa;Não
+FUNC0042;M;26-35;Ensino Médio;6.3;CLT;Híbrido;Teresina;Não
+FUNC0043;M;46-55;Superior Completo;7.4;PJ;Híbrido;Teresina;Não
+FUNC0044;M;26-35;Superior Completo;8.9;CLT;Presencial;Fortaleza;Não
+FUNC0045;M;56+;Pós-graduação;7.0;CLT;Remoto;João Pessoa;Não
+FUNC0046;M;46-55;Superior Completo;6.9;PJ;Presencial;João Pessoa;Não
+FUNC0047;F;36-45;Superior Completo;1.5;CLT;Híbrido;Fortaleza;Não
+FUNC0048;F;56+;Pós-graduação;0.9;CLT;Híbrido;Recife;Não
+FUNC0049;M;46-55;Superior Completo;5.2;CLT;Remoto;Natal;Não
+FUNC0050;M;26-35;Superior Completo;3.0;PJ;Presencial;Fortaleza;Não
+FUNC0051;M;36-45;Superior Completo;1.4;CLT;Presencial;Teresina;Sim
+FUNC0052;M;18-25;Ensino Médio;7.0;CLT;Híbrido;Teresina;Não
+FUNC0053;M;36-45;Ensino Médio;8.6;PJ;Híbrido;Teresina;Sim
+FUNC0054;F;46-55;Superior Completo;3.6;CLT;Presencial;Fortaleza;Não
+FUNC0055;M;36-45;Superior Completo;11.1;CLT;Presencial;Natal;Não
+FUNC0056;M;26-35;Superior Completo;2.1;CLT;Presencial;Fortaleza;Não
+FUNC0057;F;36-45;Ensino Médio;6.7;CLT;Remoto;Natal;Não
+FUNC0058;M;26-35;Superior Incompleto;8.9;PJ;Presencial;Natal;Não
+FUNC0059;F;46-55;Pós-graduação;0.3;CLT;Remoto;Fortaleza;Não
+FUNC0060;F;46-55;Superior Completo;2.7;CLT;Presencial;Teresina;Não
+FUNC0061;M;56+;Superior Completo;7.7;CLT;Presencial;Natal;Não
+FUNC0062;M;46-55;Superior Completo;9.1;PJ;Presencial;Recife;Não
+FUNC0063;M;18-25;Superior Incompleto;1.6;CLT;Presencial;Natal;Não
+FUNC0064;M;26-35;Pós-graduação;6.6;CLT;Híbrido;João Pessoa;Não
+FUNC0065;M;36-45;Superior Incompleto;5.9;CLT;Presencial;Teresina;Não
+FUNC0066;M;36-45;Superior Completo;6.3;CLT;Híbrido;Recife;Não
+FUNC0067;F;26-35;Superior Completo;10.7;CLT;Presencial;Recife;Não
+FUNC0068;M;26-35;Ensino Médio;3.5;CLT;Presencial;Natal;Não
+FUNC0069;M;26-35;Ensino Médio;4.9;CLT;Presencial;Fortaleza;Não
+FUNC0070;F;36-45;Ensino Médio;10.4;CLT;Híbrido;Natal;Não
+FUNC0071;M;36-45;Ensino Médio;5.7;CLT;Híbrido;João Pessoa;Não
+FUNC0072;M;36-45;Ensino Médio;2.1;CLT;Presencial;Fortaleza;Não
+FUNC0073;M;36-45;Ensino Médio;2.0;CLT;Híbrido;João Pessoa;Não
+FUNC0074;M;36-45;Superior Completo;3.3;CLT;Presencial;Natal;Não
+FUNC0075;M;36-45;Superior Completo;3.9;PJ;Presencial;Fortaleza;Não
+FUNC0076;M;26-35;Pós-graduação;2.3;CLT;Remoto;João Pessoa;Sim
+FUNC0077;F;36-45;Superior Incompleto;5.4;CLT;Remoto;Teresina;Não
+FUNC0078;M;26-35;Superior Completo;9.8;CLT;Híbrido;Teresina;Não
+FUNC0079;F;26-35;Superior Completo;10.7;CLT;Presencial;Natal;Não
+FUNC0080;M;18-25;Ensino Médio;1.3;CLT;Híbrido;Fortaleza;Não
+FUNC0081;F;26-35;Pós-graduação;3.0;PJ;Híbrido;João Pessoa;Não
+FUNC0082;M;46-55;Ensino Médio;0.8;CLT;Remoto;Recife;Não
+FUNC0083;F;26-35;Superior Completo;9.8;PJ;Híbrido;Fortaleza;Não
+FUNC0084;M;26-35;Pós-graduação;3.3;CLT;Remoto;Recife;Não
+FUNC0085;M;26-35;Superior Incompleto;9.6;CLT;Remoto;Fortaleza;Não
+FUNC0086;M;36-45;Ensino Médio;4.4;CLT;Remoto;Fortaleza;Não
+FUNC0087;M;26-35;Superior Completo;14.0;CLT;Presencial;Teresina;Não
+FUNC0088;F;36-45;Superior Completo;5.0;CLT;Presencial;Natal;Não
+FUNC0089;M;26-35;Superior Completo;3.7;CLT;Híbrido;João Pessoa;Não
+FUNC0090;F;46-55;Superior Incompleto;3.2;CLT;Híbrido;Recife;Não
+FUNC0091;F;46-55;Superior Completo;4.7;CLT;Presencial;Fortaleza;Não
+FUNC0092;M;46-55;Superior Completo;7.8;CLT;Remoto;Natal;Não
+FUNC0093;M;46-55;Superior Completo;3.9;CLT;Presencial;Teresina;Não
+FUNC0094;M;36-45;Superior Completo;5.4;CLT;Presencial;João Pessoa;Não
+FUNC0095;M;46-55;Superior Completo;1.3;CLT;Presencial;Recife;Não
+FUNC0096;M;36-45;Superior Completo;1.1;CLT;Presencial;Recife;Não
+FUNC0097;M;26-35;Superior Completo;3.5;PJ;Remoto;Natal;Não
+FUNC0098;F;26-35;Ensino Médio;3.4;CLT;Híbrido;Fortaleza;Não
+FUNC0099;M;26-35;Superior Completo;6.9;PJ;Híbrido;Natal;Não
+FUNC0100;F;36-45;Pós-graduação;1.1;PJ;Presencial;Natal;Sim
+FUNC0101;M;26-35;Ensino Médio;0.5;PJ;Remoto;João Pessoa;Não
+FUNC0102;F;26-35;Ensino Médio;9.8;CLT;Híbrido;Fortaleza;Não
+FUNC0103;M;56+;Superior Incompleto;4.4;PJ;Híbrido;Fortaleza;Não
+FUNC0104;M;36-45;Superior Incompleto;7.8;CLT;Híbrido;João Pessoa;Não
+FUNC0105;F;36-45;Superior Incompleto;8.5;CLT;Presencial;Teresina;Não
+FUNC0106;F;26-35;Ensino Médio;4.9;PJ;Remoto;Natal;Não
+FUNC0107;F;26-35;Pós-graduação;5.7;CLT;Presencial;Recife;Não
+FUNC0108;M;46-55;Ensino Médio;2.6;CLT;Remoto;Recife;Não
+FUNC0109;M;36-45;Superior Incompleto;1.9;CLT;Presencial;Recife;Não
+FUNC0110;F;56+;Ensino Médio;6.6;CLT;Presencial;Fortaleza;Não
+FUNC0111;F;36-45;Superior Completo;3.6;CLT;Remoto;Fortaleza;Não
+FUNC0112;M;26-35;Superior Completo;2.5;CLT;Remoto;Teresina;Não
+FUNC0113;F;26-35;Superior Completo;7.0;CLT;Híbrido;Fortaleza;Não
+FUNC0114;M;26-35;Superior Incompleto;4.9;CLT;Híbrido;Recife;Não
+FUNC0115;M;36-45;Ensino Médio;5.2;CLT;Híbrido;João Pessoa;Não
+FUNC0116;F;36-45;Superior Incompleto;3.1;CLT;Presencial;João Pessoa;Não
+FUNC0117;M;46-55;Ensino Médio;6.6;CLT;Remoto;João Pessoa;Não
+FUNC0118;M;18-25;Superior Completo;4.6;CLT;Presencial;Fortaleza;Não
+FUNC0119;M;36-45;Ensino Médio;6.9;CLT;Híbrido;Fortaleza;Não
+FUNC0120;M;26-35;Superior Completo;3.1;PJ;Híbrido;Teresina;Não
+FUNC0121;M;46-55;Pós-graduação;1.1;PJ;Presencial;João Pessoa;Não
+FUNC0122;M;46-55;Ensino Médio;5.6;CLT;Presencial;Natal;Não
+FUNC0123;M;18-25;Pós-graduação;3.4;CLT;Híbrido;Recife;Não
+FUNC0124;M;26-35;Superior Completo;1.0;CLT;Presencial;Fortaleza;Não
+FUNC0125;M;36-45;Ensino Médio;4.3;PJ;Híbrido;Natal;Não
+FUNC0126;M;26-35;Superior Incompleto;3.9;CLT;Presencial;Teresina;Não
+FUNC0127;F;18-25;Pós-graduação;5.0;CLT;Híbrido;Teresina;Não
+FUNC0128;F;46-55;Superior Incompleto;7.1;PJ;Híbrido;Recife;Não
+FUNC0129;F;26-35;Superior Incompleto;7.6;CLT;Remoto;Teresina;Não
+FUNC0130;M;46-55;Pós-graduação;4.2;CLT;Presencial;Recife;Não
+FUNC0131;F;26-35;Superior Completo;3.6;CLT;Híbrido;Natal;Não
+FUNC0132;F;56+;Ensino Médio;5.2;CLT;Presencial;Recife;Não
+FUNC0133;F;36-45;Superior Completo;10.6;CLT;Presencial;Teresina;Sim
+FUNC0134;M;36-45;Superior Incompleto;2.3;CLT;Presencial;Teresina;Não
+FUNC0135;M;46-55;Superior Completo;7.0;CLT;Presencial;Recife;Não
+FUNC0136;F;26-35;Superior Completo;3.0;CLT;Híbrido;Recife;Não
+FUNC0137;F;26-35;Pós-graduação;0.7;PJ;Híbrido;João Pessoa;Não
+FUNC0138;F;46-55;Superior Incompleto;8.8;CLT;Híbrido;João Pessoa;Sim
+FUNC0139;F;36-45;Superior Incompleto;2.5;CLT;Híbrido;Teresina;Não
+FUNC0140;F;26-35;Superior Completo;9.9;CLT;Presencial;Recife;Não
+FUNC0141;F;46-55;Ensino Médio;3.7;PJ;Presencial;João Pessoa;Não
+FUNC0142;M;18-25;Superior Completo;3.3;CLT;Presencial;Fortaleza;Não
+FUNC0143;M;26-35;Pós-graduação;7.3;CLT;Híbrido;Recife;Não
+FUNC0144;F;36-45;Superior Completo;6.2;CLT;Remoto;Natal;Não
+FUNC0145;F;36-45;Superior Completo;11.0;CLT;Híbrido;Fortaleza;Não
+FUNC0146;M;36-45;Superior Completo;8.0;CLT;Híbrido;Recife;Não
+FUNC0147;M;26-35;Superior Incompleto;13.4;CLT;Presencial;Fortaleza;Não
+FUNC0148;M;26-35;Ensino Médio;4.2;CLT;Remoto;Fortaleza;Não
+FUNC0149;F;36-45;Superior Completo;0.2;CLT;Híbrido;Natal;Não
+FUNC0150;F;36-45;Pós-graduação;10.5;CLT;Presencial;Natal;Não
+FUNC0151;F;26-35;Superior Incompleto;2.8;PJ;Presencial;Teresina;Não
+FUNC0152;M;18-25;Superior Completo;2.5;CLT;Híbrido;Fortaleza;Não
+FUNC0153;F;26-35;Superior Incompleto;3.1;PJ;Híbrido;Recife;Não
+FUNC0154;M;26-35;Superior Completo;5.5;CLT;Presencial;Recife;Não
+FUNC0155;M;26-35;Superior Completo;6.0;CLT;Híbrido;João Pessoa;Não
+FUNC0156;M;36-45;Ensino Médio;2.0;CLT;Presencial;Natal;Sim
+FUNC0157;M;36-45;Pós-graduação;2.7;CLT;Remoto;Recife;Sim
+FUNC0158;F;36-45;Pós-graduação;4.5;CLT;Híbrido;João Pessoa;Não
+FUNC0159;M;26-35;Ensino Médio;2.3;CLT;Híbrido;Teresina;Não
+FUNC0160;F;26-35;Superior Incompleto;6.0;PJ;Híbrido;Natal;Não
+FUNC0161;F;46-55;Superior Incompleto;6.4;CLT;Híbrido;Fortaleza;Não
+FUNC0162;F;56+;Ensino Médio;4.9;CLT;Remoto;Fortaleza;Não
+FUNC0163;M;26-35;Superior Incompleto;4.2;PJ;Remoto;Recife;Não
+FUNC0164;M;26-35;Superior Completo;6.8;CLT;Híbrido;Teresina;Não
+FUNC0165;M;36-45;Superior Completo;4.6;CLT;Híbrido;Natal;Não
+FUNC0166;M;46-55;Superior Completo;3.8;CLT;Presencial;João Pessoa;Não
+FUNC0167;M;26-35;Superior Completo;9.4;CLT;Híbrido;Teresina;Não
+FUNC0168;M;36-45;Pós-graduação;5.5;PJ;Presencial;Teresina;Não
+FUNC0169;M;26-35;Superior Completo;6.1;CLT;Híbrido;Natal;Não
+FUNC0170;F;26-35;Superior Completo;5.1;CLT;Híbrido;Natal;Não
+FUNC0171;M;26-35;Superior Incompleto;4.1;CLT;Remoto;João Pessoa;Sim
+FUNC0172;F;56+;Superior Completo;6.9;PJ;Presencial;Fortaleza;Não
+FUNC0173;M;26-35;Pós-graduação;0.4;CLT;Híbrido;João Pessoa;Não
+FUNC0174;F;18-25;Superior Completo;5.6;CLT;Presencial;Recife;Não
+FUNC0175;M;36-45;Ensino Médio;2.4;CLT;Presencial;Teresina;Não
+FUNC0176;M;56+;Ensino Médio;2.6;CLT;Presencial;Fortaleza;Não
+FUNC0177;F;26-35;Ensino Médio;0.4;CLT;Presencial;Fortaleza;Não
+FUNC0178;M;26-35;Superior Completo;6.2;CLT;Remoto;João Pessoa;Não
+FUNC0179;M;36-45;Pós-graduação;1.5;CLT;Híbrido;João Pessoa;Não
+FUNC0180;M;36-45;Superior Completo;5.6;CLT;Remoto;Teresina;Não
+FUNC0181;F;26-35;Superior Completo;2.5;CLT;Remoto;Teresina;Não
+FUNC0182;F;26-35;Superior Incompleto;3.0;CLT;Híbrido;Fortaleza;Não
+FUNC0183;M;26-35;Ensino Médio;2.5;CLT;Presencial;Fortaleza;Não
+FUNC0184;M;26-35;Superior Completo;1.0;CLT;Remoto;Recife;Não
+FUNC0185;M;26-35;Superior Completo;11.1;CLT;Híbrido;Recife;Não
+FUNC0186;M;18-25;Superior Completo;6.5;CLT;Presencial;João Pessoa;Não
+FUNC0187;F;36-45;Superior Completo;1.4;PJ;Remoto;João Pessoa;Não
+FUNC0188;M;26-35;Superior Completo;5.4;CLT;Presencial;João Pessoa;Não
+FUNC0189;F;26-35;Superior Completo;3.4;PJ;Presencial;Recife;Não
+FUNC0190;F;26-35;Ensino Médio;6.4;CLT;Presencial;Recife;Não
+FUNC0191;F;26-35;Superior Completo;2.2;CLT;Híbrido;João Pessoa;Não
+FUNC0192;F;36-45;Superior Completo;2.8;CLT;Presencial;Teresina;Não
+FUNC0193;M;26-35;Superior Completo;6.1;CLT;Presencial;Natal;Não
+FUNC0194;M;46-55;Superior Completo;6.8;CLT;Híbrido;Teresina;Sim
+FUNC0195;M;56+;Pós-graduação;1.5;CLT;Híbrido;João Pessoa;Não
+FUNC0196;M;26-35;Pós-graduação;4.4;CLT;Remoto;Teresina;Não
+FUNC0197;M;46-55;Pós-graduação;2.5;CLT;Presencial;Teresina;Não
+FUNC0198;F;26-35;Superior Incompleto;7.6;CLT;Presencial;Fortaleza;Não
+FUNC0199;M;36-45;Ensino Médio;10.5;CLT;Presencial;Recife;Não
+FUNC0200;F;26-35;Ensino Médio;4.9;CLT;Híbrido;João Pessoa;Não
+FUNC0201;F;36-45;Ensino Médio;5.3;CLT;Presencial;João Pessoa;Não
+FUNC0202;F;26-35;Pós-graduação;2.4;CLT;Presencial;João Pessoa;Não
+FUNC0203;F;36-45;Ensino Médio;2.6;PJ;Híbrido;Teresina;Não
+FUNC0204;M;36-45;Ensino Médio;7.3;CLT;Híbrido;Fortaleza;Não
+FUNC0205;M;26-35;Superior Completo;3.0;CLT;Remoto;Teresina;Não
+FUNC0206;F;46-55;Pós-graduação;3.5;CLT;Híbrido;Teresina;Não
+FUNC0207;F;36-45;Ensino Médio;7.9;CLT;Híbrido;Teresina;Não
+FUNC0208;M;36-45;Pós-graduação;2.1;CLT;Remoto;Teresina;Não
+FUNC0209;F;36-45;Superior Completo;7.5;CLT;Presencial;Natal;Sim
+FUNC0210;M;36-45;Pós-graduação;5.1;CLT;Remoto;Recife;Não
+FUNC0211;F;46-55;Superior Completo;6.6;CLT;Remoto;Natal;Sim
+FUNC0212;F;26-35;Pós-graduação;2.1;CLT;Presencial;Recife;Não
+FUNC0213;M;26-35;Superior Incompleto;0.6;CLT;Híbrido;Teresina;Sim
+FUNC0214;M;26-35;Superior Completo;8.9;PJ;Híbrido;Recife;Não
+FUNC0215;M;36-45;Superior Completo;7.6;CLT;Remoto;Fortaleza;Não
+FUNC0216;M;36-45;Superior Incompleto;6.3;CLT;Remoto;Recife;Não
+FUNC0217;M;26-35;Superior Completo;5.9;CLT;Remoto;João Pessoa;Não
+FUNC0218;M;36-45;Superior Completo;0.4;CLT;Remoto;João Pessoa;Não
+FUNC0219;M;36-45;Ensino Médio;4.9;CLT;Remoto;Natal;Não
+FUNC0220;M;26-35;Superior Completo;0.8;CLT;Remoto;João Pessoa;Não
+FUNC0221;M;36-45;Superior Completo;7.2;CLT;Híbrido;João Pessoa;Não
+FUNC0222;F;36-45;Ensino Médio;6.8;CLT;Presencial;Recife;Não
+FUNC0223;F;56+;Superior Completo;3.1;CLT;Remoto;Recife;Não
+FUNC0224;F;26-35;Superior Completo;6.6;CLT;Remoto;Natal;Não
+FUNC0225;M;26-35;Pós-graduação;6.0;CLT;Híbrido;Teresina;Não
+FUNC0226;F;26-35;Superior Completo;6.2;PJ;Híbrido;Fortaleza;Não
+FUNC0227;M;36-45;Superior Completo;5.9;PJ;Presencial;João Pessoa;Não
+FUNC0228;M;36-45;Superior Completo;10.2;CLT;Híbrido;Teresina;Não
+FUNC0229;F;26-35;Ensino Médio;9.4;CLT;Híbrido;João Pessoa;Não
+FUNC0230;F;46-55;Superior Completo;3.7;PJ;Híbrido;João Pessoa;Não
+FUNC0231;M;26-35;Pós-graduação;3.4;CLT;Remoto;Natal;Não
+FUNC0232;M;18-25;Superior Completo;6.0;CLT;Híbrido;João Pessoa;Não
+FUNC0233;M;18-25;Superior Completo;8.3;CLT;Presencial;Fortaleza;Não
+FUNC0234;F;36-45;Ensino Médio;2.4;CLT;Presencial;Recife;Não
+FUNC0235;F;26-35;Superior Completo;4.2;CLT;Remoto;Teresina;Não
+FUNC0236;F;18-25;Pós-graduação;3.5;CLT;Remoto;Teresina;Não
+FUNC0237;F;36-45;Ensino Médio;0.9;CLT;Híbrido;Fortaleza;Sim
+FUNC0238;F;26-35;Superior Completo;3.7;CLT;Presencial;Natal;Não
+FUNC0239;F;56+;Pós-graduação;1.2;CLT;Remoto;Natal;Não
+FUNC0240;M;18-25;Superior Incompleto;2.0;PJ;Híbrido;Natal;Não
+FUNC0241;F;36-45;Superior Completo;5.7;CLT;Presencial;Natal;Não
+FUNC0242;F;18-25;Ensino Médio;4.4;CLT;Remoto;Recife;Não
+FUNC0243;M;26-35;Ensino Médio;7.6;PJ;Remoto;Fortaleza;Não
+FUNC0244;F;26-35;Pós-graduação;0.5;CLT;Presencial;João Pessoa;Não
+FUNC0245;M;26-35;Pós-graduação;4.4;CLT;Remoto;Fortaleza;Não
+FUNC0246;F;46-55;Pós-graduação;3.6;PJ;Híbrido;Recife;Não
+FUNC0247;M;36-45;Superior Completo;0.6;CLT;Presencial;Fortaleza;Não
+FUNC0248;F;18-25;Pós-graduação;6.1;CLT;Híbrido;Fortaleza;Não
+FUNC0249;F;36-45;Pós-graduação;0.4;CLT;Híbrido;Teresina;Não
+FUNC0250;F;36-45;Ensino Médio;3.0;PJ;Híbrido;Fortaleza;Não
+FUNC0251;F;18-25;Superior Incompleto;4.3;CLT;Presencial;João Pessoa;Não
+FUNC0252;F;36-45;Superior Completo;7.1;CLT;Híbrido;João Pessoa;Não
+FUNC0253;F;56+;Superior Completo;5.6;CLT;Presencial;Fortaleza;Sim
+FUNC0254;M;36-45;Pós-graduação;4.4;CLT;Híbrido;Teresina;Não
+FUNC0255;M;36-45;Superior Completo;3.9;CLT;Presencial;Recife;Não
+FUNC0256;M;36-45;Superior Completo;4.5;CLT;Presencial;Fortaleza;Não
+FUNC0257;M;36-45;Ensino Médio;7.7;CLT;Híbrido;Recife;Não
+FUNC0258;F;26-35;Superior Completo;4.6;PJ;Híbrido;Teresina;Não
+FUNC0259;M;46-55;Pós-graduação;4.9;CLT;Presencial;Fortaleza;Não
+FUNC0260;M;26-35;Superior Completo;2.7;CLT;Presencial;Fortaleza;Não
+FUNC0261;F;36-45;Superior Completo;5.1;PJ;Híbrido;Recife;Não
+FUNC0262;M;46-55;Pós-graduação;6.8;CLT;Híbrido;Recife;Não
+FUNC0263;M;18-25;Ensino Médio;8.3;CLT;Remoto;Recife;Não
+FUNC0264;F;26-35;Superior Completo;1.9;CLT;Híbrido;Recife;Não
+FUNC0265;M;46-55;Ensino Médio;4.3;CLT;Híbrido;João Pessoa;Não
+FUNC0266;M;46-55;Superior Completo;3.5;CLT;Híbrido;João Pessoa;Sim
+FUNC0267;M;46-55;Superior Completo;4.8;CLT;Híbrido;Fortaleza;Não
+FUNC0268;M;56+;Ensino Médio;8.1;CLT;Presencial;Natal;Sim
+FUNC0269;M;26-35;Ensino Médio;3.7;CLT;Remoto;Teresina;Não
+FUNC0270;M;36-45;Superior Completo;9.3;CLT;Presencial;Recife;Não
+FUNC0271;M;26-35;Superior Completo;5.0;CLT;Híbrido;Recife;Não
+FUNC0272;M;46-55;Superior Incompleto;1.0;CLT;Híbrido;Teresina;Não
+FUNC0273;M;26-35;Superior Completo;10.7;CLT;Presencial;Fortaleza;Não
+FUNC0274;M;26-35;Superior Incompleto;1.7;CLT;Presencial;Teresina;Não
+FUNC0275;M;26-35;Pós-graduação;5.3;PJ;Presencial;Recife;Não
+FUNC0276;M;36-45;Superior Completo;9.8;PJ;Remoto;Natal;Não
+FUNC0277;M;46-55;Superior Completo;1.8;CLT;Presencial;Recife;Não
+FUNC0278;M;36-45;Pós-graduação;2.5;CLT;Híbrido;João Pessoa;Não
+FUNC0279;M;56+;Ensino Médio;0.3;CLT;Presencial;Recife;Não
+FUNC0280;M;36-45;Pós-graduação;7.4;CLT;Híbrido;Recife;Não
+FUNC0281;M;36-45;Superior Completo;8.1;CLT;Híbrido;Recife;Não
+FUNC0282;F;46-55;Superior Completo;1.9;CLT;Remoto;Fortaleza;Não
+FUNC0283;M;56+;Pós-graduação;5.5;CLT;Presencial;Natal;Não
+FUNC0284;M;26-35;Ensino Médio;6.5;CLT;Remoto;Teresina;Não
+FUNC0285;M;26-35;Pós-graduação;4.1;CLT;Híbrido;João Pessoa;Não
+FUNC0286;M;26-35;Ensino Médio;0.4;CLT;Híbrido;Fortaleza;Não
+FUNC0287;M;18-25;Ensino Médio;2.4;CLT;Remoto;Natal;Não
+FUNC0288;F;18-25;Superior Incompleto;6.3;CLT;Remoto;João Pessoa;Não
+FUNC0289;F;26-35;Superior Completo;5.5;CLT;Híbrido;Fortaleza;Sim
+FUNC0290;M;18-25;Superior Completo;1.7;CLT;Remoto;Fortaleza;Não
+FUNC0291;F;18-25;Pós-graduação;5.1;PJ;Híbrido;Natal;Não
+FUNC0292;M;46-55;Superior Completo;1.3;CLT;Híbrido;Natal;Não
+FUNC0293;F;46-55;Superior Incompleto;6.2;CLT;Presencial;Recife;Não
+FUNC0294;F;26-35;Ensino Médio;3.4;CLT;Presencial;Teresina;Não
+FUNC0295;M;46-55;Superior Completo;8.3;CLT;Remoto;Teresina;Não
+FUNC0296;F;46-55;Ensino Médio;6.4;CLT;Remoto;Fortaleza;Não
+FUNC0297;F;18-25;Superior Completo;5.6;PJ;Presencial;João Pessoa;Não
+FUNC0298;M;46-55;Superior Completo;2.7;CLT;Presencial;Natal;Não
+FUNC0299;M;36-45;Ensino Médio;6.0;PJ;Presencial;Recife;Não
+FUNC0300;M;36-45;Ensino Médio;6.9;PJ;Híbrido;Fortaleza;Não
+FUNC0301;F;46-55;Superior Completo;6.5;CLT;Presencial;Teresina;Não
+FUNC0302;F;26-35;Superior Completo;6.3;CLT;Híbrido;Teresina;Não
+FUNC0303;F;18-25;Pós-graduação;3.8;CLT;Presencial;Recife;Não
+FUNC0304;F;36-45;Superior Completo;9.0;CLT;Híbrido;Fortaleza;Não
+FUNC0305;M;36-45;Superior Completo;2.5;CLT;Híbrido;Fortaleza;Não
+FUNC0306;F;36-45;Ensino Médio;6.4;CLT;Presencial;João Pessoa;Não
+FUNC0307;F;56+;Superior Completo;2.4;CLT;Híbrido;Natal;Sim
+FUNC0308;F;26-35;Ensino Médio;4.7;CLT;Presencial;Teresina;Não
+FUNC0309;F;36-45;Pós-graduação;0.6;CLT;Híbrido;Teresina;Não
+FUNC0310;F;36-45;Ensino Médio;5.1;CLT;Presencial;João Pessoa;Não
+FUNC0311;M;56+;Pós-graduação;4.6;CLT;Presencial;Recife;Não
+FUNC0312;M;18-25;Ensino Médio;5.5;CLT;Presencial;Fortaleza;Não
+FUNC0313;M;56+;Superior Incompleto;9.9;CLT;Híbrido;Fortaleza;Não
+FUNC0314;M;46-55;Superior Completo;3.9;CLT;Presencial;João Pessoa;Não
+FUNC0315;F;26-35;Superior Completo;3.1;CLT;Presencial;Recife;Não
+FUNC0316;M;46-55;Ensino Médio;5.3;PJ;Híbrido;Fortaleza;Não
+FUNC0317;M;26-35;Superior Incompleto;4.8;CLT;Híbrido;João Pessoa;Não
+FUNC0318;M;26-35;Pós-graduação;6.3;PJ;Remoto;Natal;Não
+FUNC0319;F;26-35;Pós-graduação;1.2;CLT;Híbrido;Recife;Não
+FUNC0320;M;46-55;Ensino Médio;6.6;PJ;Remoto;Teresina;Não
+FUNC0321;F;36-45;Superior Completo;0.7;CLT;Remoto;João Pessoa;Não
+FUNC0322;M;26-35;Pós-graduação;5.6;CLT;Remoto;Teresina;Não
+FUNC0323;F;26-35;Pós-graduação;2.7;CLT;Remoto;Teresina;Não
+FUNC0324;M;26-35;Superior Completo;4.4;PJ;Presencial;Teresina;Não
+FUNC0325;M;18-25;Superior Incompleto;6.5;CLT;Remoto;Natal;Não
+FUNC0326;M;36-45;Pós-graduação;1.1;CLT;Remoto;João Pessoa;Não
+FUNC0327;F;26-35;Superior Completo;4.8;CLT;Presencial;Fortaleza;Não
+FUNC0328;F;36-45;Superior Completo;2.1;CLT;Presencial;Teresina;Não
+FUNC0329;M;36-45;Superior Completo;6.1;CLT;Híbrido;Fortaleza;Não
+FUNC0330;M;46-55;Superior Completo;7.2;CLT;Presencial;João Pessoa;Não
+FUNC0331;F;36-45;Superior Incompleto;4.5;CLT;Presencial;João Pessoa;Não
+FUNC0332;M;46-55;Ensino Médio;6.5;PJ;Presencial;João Pessoa;Não
+FUNC0333;M;36-45;Superior Completo;0.8;CLT;Presencial;Recife;Não
+FUNC0334;M;46-55;Pós-graduação;2.5;CLT;Presencial;Recife;Não
+FUNC0335;M;26-35;Pós-graduação;4.6;CLT;Presencial;Fortaleza;Não
+FUNC0336;M;26-35;Superior Completo;4.8;CLT;Híbrido;Teresina;Não
+FUNC0337;F;26-35;Superior Completo;3.2;CLT;Remoto;Teresina;Não
+FUNC0338;F;26-35;Superior Incompleto;4.0;CLT;Remoto;Natal;Não
+FUNC0339;F;18-25;Superior Completo;4.8;PJ;Híbrido;Natal;Não
+FUNC0340;M;26-35;Superior Completo;1.7;CLT;Híbrido;Natal;Não
+FUNC0341;F;56+;Superior Completo;2.9;CLT;Híbrido;Natal;Não
+FUNC0342;M;56+;Superior Completo;3.7;CLT;Híbrido;Fortaleza;Não
+FUNC0343;M;18-25;Ensino Médio;11.0;CLT;Remoto;Teresina;Não
+FUNC0344;M;36-45;Superior Incompleto;1.6;CLT;Híbrido;Fortaleza;Não
+FUNC0345;F;26-35;Superior Incompleto;2.0;CLT;Híbrido;Recife;Não
+FUNC0346;M;36-45;Pós-graduação;6.6;CLT;Presencial;Fortaleza;Não
+FUNC0347;F;26-35;Superior Completo;1.6;CLT;Remoto;João Pessoa;Sim
+FUNC0348;M;26-35;Superior Completo;6.4;CLT;Híbrido;Recife;Não
+FUNC0349;M;36-45;Superior Completo;3.7;CLT;Presencial;Recife;Não
+FUNC0350;F;36-45;Superior Completo;7.2;CLT;Remoto;Recife;Não
+FUNC0351;M;26-35;Pós-graduação;3.8;CLT;Presencial;João Pessoa;Não
+FUNC0352;M;36-45;Ensino Médio;8.9;CLT;Híbrido;Recife;Não
+FUNC0353;M;36-45;Superior Completo;7.4;CLT;Presencial;Teresina;Não
+FUNC0354;M;26-35;Superior Incompleto;1.5;CLT;Híbrido;Recife;Não
+FUNC0355;M;46-55;Superior Completo;7.1;CLT;Remoto;Teresina;Não
+FUNC0356;F;56+;Superior Completo;1.9;CLT;Remoto;Fortaleza;Não
+FUNC0357;F;18-25;Pós-graduação;8.8;PJ;Presencial;Recife;Não
+FUNC0358;M;26-35;Superior Completo;4.8;CLT;Presencial;Teresina;Não
+FUNC0359;M;36-45;Superior Incompleto;3.7;CLT;Presencial;João Pessoa;Não
+FUNC0360;M;26-35;Ensino Médio;5.8;CLT;Presencial;João Pessoa;Não
+FUNC0361;F;26-35;Superior Incompleto;2.0;CLT;Presencial;Natal;Não
+FUNC0362;F;36-45;Superior Completo;9.7;CLT;Presencial;Teresina;Não
+FUNC0363;F;36-45;Ensino Médio;7.8;PJ;Híbrido;Fortaleza;Não
+FUNC0364;F;26-35;Pós-graduação;6.6;CLT;Remoto;João Pessoa;Não
+FUNC0365;F;36-45;Pós-graduação;3.3;CLT;Híbrido;Recife;Não
+FUNC0366;F;36-45;Ensino Médio;2.5;CLT;Remoto;Natal;Não
+FUNC0367;F;26-35;Superior Completo;5.1;CLT;Presencial;Teresina;Não
+FUNC0368;M;56+;Ensino Médio;2.8;CLT;Híbrido;Recife;Não
+FUNC0369;M;26-35;Ensino Médio;4.0;CLT;Remoto;Fortaleza;Sim
+FUNC0370;F;46-55;Superior Completo;6.5;CLT;Híbrido;Teresina;Não
+FUNC0371;M;36-45;Superior Incompleto;6.5;CLT;Híbrido;João Pessoa;Não
+FUNC0372;M;26-35;Superior Completo;1.7;CLT;Remoto;Teresina;Não
+FUNC0373;M;36-45;Superior Incompleto;2.6;CLT;Presencial;João Pessoa;Não
+FUNC0374;F;36-45;Superior Completo;1.5;CLT;Híbrido;Fortaleza;Não
+FUNC0375;F;26-35;Pós-graduação;1.0;CLT;Híbrido;Teresina;Não
+FUNC0376;F;18-25;Superior Incompleto;1.8;CLT;Remoto;João Pessoa;Não
+FUNC0377;F;26-35;Ensino Médio;2.8;PJ;Remoto;João Pessoa;Sim
+FUNC0378;F;26-35;Pós-graduação;0.2;CLT;Remoto;Teresina;Não
+FUNC0379;F;26-35;Superior Completo;8.0;CLT;Remoto;Teresina;Não
+FUNC0380;M;26-35;Superior Completo;2.1;PJ;Remoto;Recife;Sim
+FUNC0381;M;26-35;Ensino Médio;5.2;CLT;Presencial;Recife;Sim
+FUNC0382;F;26-35;Superior Completo;6.0;CLT;Híbrido;Recife;Não
+FUNC0383;F;26-35;Ensino Médio;5.6;CLT;Remoto;João Pessoa;Não
+FUNC0384;F;36-45;Pós-graduação;1.8;PJ;Remoto;Recife;Não
+FUNC0385;M;56+;Ensino Médio;7.8;CLT;Presencial;Recife;Não
+FUNC0386;F;26-35;Ensino Médio;7.7;CLT;Híbrido;Natal;Sim
+FUNC0387;F;36-45;Superior Incompleto;1.6;CLT;Presencial;Teresina;Não
+FUNC0388;F;18-25;Superior Incompleto;13.7;CLT;Híbrido;Teresina;Não
+FUNC0389;M;36-45;Pós-graduação;1.1;PJ;Remoto;Recife;Não
+FUNC0390;M;46-55;Pós-graduação;6.4;PJ;Híbrido;Fortaleza;Não
+FUNC0391;F;18-25;Superior Completo;3.9;CLT;Presencial;Natal;Não
+FUNC0392;M;56+;Ensino Médio;2.3;CLT;Remoto;Fortaleza;Não
+FUNC0393;M;26-35;Superior Incompleto;1.5;CLT;Presencial;Fortaleza;Não
+FUNC0394;M;56+;Ensino Médio;2.2;CLT;Presencial;Natal;Não
+FUNC0395;F;36-45;Ensino Médio;2.4;CLT;Presencial;João Pessoa;Não
+FUNC0396;M;36-45;Superior Completo;7.5;CLT;Presencial;Fortaleza;Não
+FUNC0397;M;36-45;Pós-graduação;5.0;CLT;Remoto;Natal;Não
+FUNC0398;M;36-45;Superior Completo;1.4;CLT;Presencial;Recife;Não
+FUNC0399;M;36-45;Superior Completo;4.6;CLT;Híbrido;João Pessoa;Não
+FUNC0400;F;36-45;Superior Completo;8.5;PJ;Presencial;Recife;Não
+FUNC0401;M;46-55;Superior Completo;4.7;CLT;Presencial;Recife;Não
+FUNC0402;F;26-35;Superior Incompleto;5.8;CLT;Remoto;Fortaleza;Não
+FUNC0403;M;36-45;Superior Completo;8.5;CLT;Presencial;Fortaleza;Não
+FUNC0404;M;26-35;Ensino Médio;9.5;PJ;Presencial;Recife;Não
+FUNC0405;F;36-45;Superior Completo;4.4;CLT;Híbrido;Teresina;Não
+FUNC0406;M;46-55;Ensino Médio;0.9;CLT;Presencial;Recife;Não
+FUNC0407;F;36-45;Superior Completo;4.7;CLT;Remoto;Fortaleza;Não
+FUNC0408;F;26-35;Superior Completo;3.0;CLT;Remoto;Recife;Não
+FUNC0409;M;46-55;Superior Completo;5.5;CLT;Híbrido;Teresina;Não
+FUNC0410;F;26-35;Superior Completo;3.2;CLT;Presencial;Fortaleza;Não
+FUNC0411;M;18-25;Pós-graduação;4.2;CLT;Híbrido;João Pessoa;Não
+FUNC0412;F;46-55;Superior Incompleto;5.1;CLT;Remoto;João Pessoa;Não
+FUNC0413;M;26-35;Superior Completo;2.4;CLT;Remoto;Natal;Não
+FUNC0414;F;56+;Ensino Médio;3.2;PJ;Presencial;Fortaleza;Não
+FUNC0415;F;26-35;Superior Completo;5.3;CLT;Presencial;Teresina;Não
+FUNC0416;F;46-55;Superior Completo;6.7;CLT;Híbrido;Natal;Não
+FUNC0417;F;26-35;Superior Incompleto;3.0;CLT;Presencial;Fortaleza;Não
+FUNC0418;M;36-45;Ensino Médio;3.0;PJ;Presencial;Fortaleza;Não
+FUNC0419;M;36-45;Pós-graduação;7.1;PJ;Remoto;Recife;Não
+FUNC0420;M;56+;Ensino Médio;8.3;CLT;Presencial;Teresina;Não
+FUNC0421;M;56+;Ensino Médio;9.0;CLT;Híbrido;João Pessoa;Não
+FUNC0422;F;46-55;Superior Incompleto;6.3;CLT;Presencial;Fortaleza;Sim
+FUNC0423;F;26-35;Ensino Médio;4.6;CLT;Remoto;Fortaleza;Não
+FUNC0424;M;26-35;Pós-graduação;3.1;CLT;Presencial;Fortaleza;Não
+FUNC0425;M;18-25;Superior Completo;3.1;CLT;Remoto;Teresina;Não
+FUNC0426;M;26-35;Pós-graduação;6.2;PJ;Híbrido;Fortaleza;Não
+FUNC0427;F;26-35;Ensino Médio;0.1;PJ;Remoto;João Pessoa;Não
+FUNC0428;F;56+;Superior Incompleto;7.8;CLT;Híbrido;Natal;Não
+FUNC0429;F;36-45;Superior Completo;3.6;CLT;Híbrido;Teresina;Não
+FUNC0430;M;26-35;Ensino Médio;2.1;CLT;Presencial;João Pessoa;Não
+FUNC0431;F;18-25;Superior Completo;1.9;CLT;Presencial;João Pessoa;Não
+FUNC0432;F;36-45;Superior Completo;1.2;CLT;Híbrido;Teresina;Não
+FUNC0433;M;46-55;Superior Incompleto;5.3;CLT;Presencial;Natal;Não
+FUNC0434;M;36-45;Superior Completo;3.4;CLT;Presencial;Fortaleza;Não
+FUNC0435;M;26-35;Ensino Médio;3.8;CLT;Presencial;Recife;Não
+FUNC0436;F;56+;Ensino Médio;8.4;CLT;Presencial;Fortaleza;Não
+FUNC0437;F;26-35;Superior Completo;1.0;CLT;Presencial;Fortaleza;Não
+FUNC0438;F;36-45;Superior Completo;3.7;CLT;Presencial;Natal;Não
+FUNC0439;M;46-55;Pós-graduação;1.8;CLT;Presencial;Natal;Não
+FUNC0440;M;36-45;Superior Completo;1.6;CLT;Presencial;João Pessoa;Não
+FUNC0441;M;36-45;Superior Completo;11.8;CLT;Presencial;João Pessoa;Não
+FUNC0442;F;46-55;Ensino Médio;8.4;CLT;Remoto;João Pessoa;Não
+FUNC0443;M;46-55;Ensino Médio;4.2;CLT;Presencial;João Pessoa;Não
+FUNC0444;M;46-55;Superior Incompleto;3.4;CLT;Presencial;João Pessoa;Não
+FUNC0445;M;26-35;Pós-graduação;7.7;CLT;Remoto;João Pessoa;Não
+FUNC0446;F;26-35;Ensino Médio;2.8;CLT;Híbrido;Fortaleza;Não
+FUNC0447;M;26-35;Ensino Médio;2.0;CLT;Remoto;Teresina;Não
+FUNC0448;M;56+;Pós-graduação;4.7;CLT;Híbrido;Teresina;Não
+FUNC0449;F;46-55;Superior Completo;9.1;CLT;Híbrido;Teresina;Não
+FUNC0450;M;26-35;Ensino Médio;7.8;CLT;Presencial;Fortaleza;Não
+FUNC0451;F;26-35;Ensino Médio;6.3;CLT;Presencial;Natal;Não
+FUNC0452;F;26-35;Superior Incompleto;3.3;CLT;Híbrido;João Pessoa;Sim
+FUNC0453;M;26-35;Ensino Médio;4.0;CLT;Híbrido;Teresina;Não
+FUNC0454;M;26-35;Superior Incompleto;5.7;PJ;Presencial;Fortaleza;Não
+FUNC0455;M;36-45;Ensino Médio;1.3;CLT;Presencial;Recife;Não
+FUNC0456;F;26-35;Pós-graduação;10.2;CLT;Presencial;Teresina;Não
+FUNC0457;M;36-45;Superior Completo;1.3;CLT;Presencial;Teresina;Não
+FUNC0458;F;36-45;Superior Incompleto;3.7;CLT;Presencial;Recife;Não
+FUNC0459;F;26-35;Ensino Médio;4.8;PJ;Remoto;Teresina;Não
+FUNC0460;M;18-25;Pós-graduação;3.9;CLT;Presencial;João Pessoa;Não
+FUNC0461;M;26-35;Pós-graduação;6.3;CLT;Presencial;Teresina;Não
+FUNC0462;M;36-45;Ensino Médio;1.2;CLT;Híbrido;João Pessoa;Não
+FUNC0463;M;36-45;Ensino Médio;2.1;CLT;Remoto;Recife;Não
+FUNC0464;M;26-35;Superior Completo;3.9;CLT;Presencial;Recife;Não
+FUNC0465;F;36-45;Ensino Médio;6.8;CLT;Remoto;Recife;Não
+FUNC0466;M;18-25;Superior Completo;2.6;CLT;Remoto;Recife;Não
+FUNC0467;M;36-45;Superior Completo;7.3;CLT;Remoto;Recife;Não
+FUNC0468;M;26-35;Superior Completo;2.2;CLT;Híbrido;João Pessoa;Não
+FUNC0469;F;46-55;Pós-graduação;2.1;CLT;Híbrido;Fortaleza;Não
+FUNC0470;F;26-35;Pós-graduação;8.6;CLT;Remoto;Teresina;Não
+FUNC0471;F;26-35;Superior Incompleto;3.6;CLT;Remoto;Teresina;Não
+FUNC0472;M;56+;Superior Completo;9.3;CLT;Híbrido;Recife;Não
+FUNC0473;F;36-45;Superior Completo;0.9;CLT;Presencial;João Pessoa;Não
+FUNC0474;M;26-35;Superior Incompleto;0.4;CLT;Presencial;Fortaleza;Não
+FUNC0475;M;26-35;Superior Completo;1.1;CLT;Presencial;Natal;Não
+FUNC0476;M;26-35;Ensino Médio;3.4;CLT;Presencial;João Pessoa;Não
+FUNC0477;M;46-55;Superior Completo;4.3;CLT;Híbrido;Fortaleza;Não
+FUNC0478;M;36-45;Superior Completo;4.3;CLT;Híbrido;João Pessoa;Não
+FUNC0479;F;26-35;Pós-graduação;6.2;CLT;Presencial;Teresina;Não
+FUNC0480;F;18-25;Pós-graduação;2.1;CLT;Híbrido;Fortaleza;Não
+FUNC0481;M;26-35;Superior Completo;3.6;CLT;Presencial;Recife;Não
+FUNC0482;F;46-55;Pós-graduação;4.7;CLT;Presencial;João Pessoa;Não
+FUNC0483;F;36-45;Pós-graduação;5.9;CLT;Remoto;João Pessoa;Não
+FUNC0484;M;36-45;Ensino Médio;8.5;CLT;Híbrido;Teresina;Não
+FUNC0485;M;36-45;Ensino Médio;3.3;CLT;Presencial;João Pessoa;Não
+FUNC0486;M;36-45;Superior Completo;3.3;CLT;Híbrido;Teresina;Sim
+FUNC0487;M;36-45;Pós-graduação;3.0;PJ;Híbrido;Natal;Não
+FUNC0488;M;36-45;Ensino Médio;3.5;CLT;Presencial;Fortaleza;Não
+FUNC0489;F;46-55;Superior Incompleto;7.8;CLT;Remoto;Recife;Não
+FUNC0490;M;18-25;Superior Incompleto;7.3;CLT;Híbrido;João Pessoa;Não
+FUNC0491;M;56+;Ensino Médio;6.1;CLT;Híbrido;Teresina;Não
+FUNC0492;M;46-55;Superior Incompleto;4.7;CLT;Remoto;Teresina;Não
+FUNC0493;M;46-55;Pós-graduação;4.6;CLT;Presencial;Recife;Não
+FUNC0494;F;18-25;Ensino Médio;4.7;CLT;Híbrido;Fortaleza;Não
+FUNC0495;F;46-55;Ensino Médio;3.7;CLT;Presencial;João Pessoa;Não
+FUNC0496;M;36-45;Superior Completo;1.3;CLT;Remoto;Teresina;Não
+FUNC0497;M;26-35;Superior Completo;7.3;CLT;Remoto;Natal;Não
+FUNC0498;M;36-45;Superior Completo;7.7;CLT;Híbrido;Recife;Não
+FUNC0499;F;36-45;Superior Completo;8.6;CLT;Híbrido;Teresina;Não
+FUNC0500;M;46-55;Ensino Médio;5.4;CLT;Presencial;Fortaleza;Não
+FUNC0501;M;36-45;Ensino Médio;1.8;CLT;Híbrido;Teresina;Não
+FUNC0502;M;36-45;Superior Completo;4.3;CLT;Híbrido;Natal;Não
+FUNC0503;F;36-45;Superior Completo;1.7;CLT;Híbrido;Natal;Não
+FUNC0504;M;36-45;Superior Completo;3.0;CLT;Presencial;Natal;Não
+FUNC0505;F;36-45;Ensino Médio;0.3;PJ;Presencial;Natal;Não
+FUNC0506;M;26-35;Pós-graduação;8.9;CLT;Híbrido;Natal;Não
+FUNC0507;M;36-45;Ensino Médio;0.3;CLT;Presencial;Recife;Não
+FUNC0508;M;46-55;Superior Completo;7.7;CLT;Híbrido;João Pessoa;Não
+FUNC0509;F;56+;Superior Completo;3.9;CLT;Remoto;Fortaleza;Não
+FUNC0510;M;18-25;Ensino Médio;2.3;CLT;Híbrido;Recife;Não
+FUNC0511;M;36-45;Superior Incompleto;0.1;CLT;Híbrido;Fortaleza;Não
+FUNC0512;F;46-55;Pós-graduação;2.6;PJ;Presencial;Recife;Não
+FUNC0513;F;26-35;Pós-graduação;3.4;CLT;Remoto;Recife;Não
+FUNC0514;M;46-55;Ensino Médio;12.0;CLT;Presencial;Recife;Não
+FUNC0515;M;26-35;Pós-graduação;8.1;CLT;Remoto;João Pessoa;Não
+FUNC0516;F;46-55;Pós-graduação;0.7;CLT;Híbrido;Recife;Não
+FUNC0517;M;18-25;Superior Incompleto;3.4;CLT;Remoto;Teresina;Não
+FUNC0518;M;36-45;Superior Completo;7.6;CLT;Remoto;Recife;Não
+FUNC0519;M;46-55;Superior Incompleto;7.1;CLT;Presencial;Natal;Não
+FUNC0520;M;18-25;Superior Completo;3.6;CLT;Híbrido;Teresina;Não
+FUNC0521;F;26-35;Ensino Médio;5.8;CLT;Presencial;Fortaleza;Não
+FUNC0522;M;36-45;Ensino Médio;4.6;CLT;Presencial;Recife;Não
+FUNC0523;M;36-45;Superior Completo;8.7;CLT;Remoto;Natal;Não
+FUNC0524;M;26-35;Ensino Médio;3.4;CLT;Híbrido;Fortaleza;Não
+FUNC0525;M;46-55;Superior Completo;3.4;CLT;Presencial;João Pessoa;Não
+FUNC0526;M;46-55;Superior Incompleto;0.5;PJ;Híbrido;Fortaleza;Não
+FUNC0527;M;26-35;Ensino Médio;1.6;CLT;Remoto;Natal;Não
+FUNC0528;M;18-25;Superior Completo;6.8;CLT;Presencial;Teresina;Não
+FUNC0529;F;46-55;Ensino Médio;5.3;CLT;Remoto;Natal;Não
+FUNC0530;F;46-55;Ensino Médio;4.4;CLT;Presencial;João Pessoa;Não
+FUNC0531;M;18-25;Pós-graduação;4.8;CLT;Presencial;Fortaleza;Não
+FUNC0532;M;26-35;Pós-graduação;1.2;CLT;Presencial;Natal;Não
+FUNC0533;M;36-45;Pós-graduação;7.2;PJ;Híbrido;Recife;Não
+FUNC0534;M;46-55;Ensino Médio;5.9;CLT;Presencial;Fortaleza;Não
+FUNC0535;F;26-35;Pós-graduação;9.2;PJ;Remoto;Fortaleza;Não
+FUNC0536;F;36-45;Superior Completo;4.7;PJ;Híbrido;Recife;Não
+FUNC0537;M;26-35;Pós-graduação;9.7;CLT;Presencial;Recife;Não
+FUNC0538;M;18-25;Superior Completo;1.7;PJ;Presencial;João Pessoa;Não
+FUNC0539;M;56+;Ensino Médio;8.4;CLT;Híbrido;Teresina;Não
+FUNC0540;F;46-55;Pós-graduação;2.8;CLT;Presencial;Fortaleza;Não
+FUNC0541;F;46-55;Superior Completo;6.0;CLT;Presencial;Recife;Não
+FUNC0542;M;36-45;Superior Completo;10.1;CLT;Remoto;Fortaleza;Não
+FUNC0543;M;36-45;Superior Completo;0.6;CLT;Presencial;Natal;Não
+FUNC0544;M;36-45;Ensino Médio;3.4;CLT;Presencial;Fortaleza;Não
+FUNC0545;F;18-25;Superior Completo;5.9;CLT;Remoto;Natal;Não
+FUNC0546;M;46-55;Superior Completo;3.9;CLT;Presencial;Teresina;Não
+FUNC0547;M;46-55;Ensino Médio;12.5;CLT;Presencial;Teresina;Não
+FUNC0548;M;26-35;Superior Incompleto;4.7;CLT;Presencial;João Pessoa;Não
+FUNC0549;F;26-35;Pós-graduação;2.7;CLT;Híbrido;Fortaleza;Não
+FUNC0550;M;46-55;Pós-graduação;0.7;CLT;Remoto;Teresina;Não
+FUNC0551;M;18-25;Ensino Médio;1.4;CLT;Híbrido;Fortaleza;Não
+FUNC0552;M;36-45;Superior Completo;11.7;CLT;Presencial;João Pessoa;Não
+FUNC0553;F;26-35;Superior Completo;10.1;CLT;Presencial;Natal;Não
+FUNC0554;M;18-25;Ensino Médio;5.2;CLT;Presencial;João Pessoa;Não
+FUNC0555;F;56+;Superior Completo;3.7;CLT;Remoto;Teresina;Não
+FUNC0556;M;26-35;Pós-graduação;7.8;CLT;Híbrido;Recife;Não
+FUNC0557;F;18-25;Superior Incompleto;3.7;CLT;Híbrido;Teresina;Não
+FUNC0558;M;26-35;Superior Completo;0.7;CLT;Híbrido;Natal;Não
+FUNC0559;M;56+;Superior Incompleto;0.6;CLT;Híbrido;Fortaleza;Não
+FUNC0560;F;36-45;Ensino Médio;5.1;CLT;Híbrido;Fortaleza;Não
+FUNC0561;F;46-55;Superior Incompleto;6.2;CLT;Híbrido;Fortaleza;Não
+FUNC0562;M;26-35;Superior Incompleto;1.4;CLT;Híbrido;Natal;Não
+FUNC0563;F;26-35;Superior Completo;6.2;PJ;Híbrido;Fortaleza;Não
+FUNC0564;F;46-55;Superior Completo;3.9;CLT;Presencial;Recife;Não
+FUNC0565;M;18-25;Pós-graduação;0.4;CLT;Presencial;João Pessoa;Não
+FUNC0566;F;26-35;Ensino Médio;6.3;CLT;Presencial;Natal;Não
+FUNC0567;F;26-35;Superior Completo;5.6;PJ;Presencial;Fortaleza;Não
+FUNC0568;F;46-55;Superior Completo;9.8;CLT;Híbrido;João Pessoa;Não
+FUNC0569;M;56+;Pós-graduação;1.0;CLT;Remoto;Natal;Não
+FUNC0570;M;46-55;Superior Completo;4.9;PJ;Presencial;Natal;Não
+FUNC0571;F;36-45;Ensino Médio;5.1;CLT;Presencial;Recife;Não
+FUNC0572;M;46-55;Superior Incompleto;7.9;CLT;Remoto;João Pessoa;Não
+FUNC0573;M;46-55;Superior Completo;6.7;CLT;Presencial;Natal;Não
+FUNC0574;M;36-45;Superior Completo;5.3;CLT;Presencial;Fortaleza;Não
+FUNC0575;F;56+;Pós-graduação;3.4;CLT;Presencial;Recife;Não
+FUNC0576;F;26-35;Superior Completo;0.3;CLT;Presencial;Teresina;Não
+FUNC0577;M;36-45;Superior Completo;1.8;PJ;Presencial;Natal;Não
+FUNC0578;F;18-25;Superior Completo;5.4;CLT;Híbrido;Teresina;Não
+FUNC0579;M;46-55;Superior Incompleto;0.0;CLT;Remoto;Natal;Sim
+FUNC0580;M;26-35;Ensino Médio;2.2;CLT;Remoto;Recife;Não
+FUNC0581;M;26-35;Superior Incompleto;1.2;CLT;Presencial;João Pessoa;Não
+FUNC0582;M;26-35;Superior Incompleto;10.9;PJ;Remoto;Natal;Não
+FUNC0583;M;26-35;Superior Incompleto;6.4;CLT;Remoto;Recife;Não
+FUNC0584;F;36-45;Superior Completo;0.4;CLT;Presencial;João Pessoa;Não
+FUNC0585;F;36-45;Pós-graduação;1.6;CLT;Híbrido;João Pessoa;Não
+FUNC0586;F;36-45;Ensino Médio;4.0;CLT;Presencial;Natal;Não
+FUNC0587;F;36-45;Ensino Médio;3.9;CLT;Presencial;Natal;Não
+FUNC0588;M;36-45;Superior Completo;2.5;CLT;Híbrido;Fortaleza;Não
+FUNC0589;M;26-35;Ensino Médio;3.1;CLT;Híbrido;Recife;Sim
+FUNC0590;F;18-25;Superior Incompleto;5.6;CLT;Híbrido;Natal;Não
+FUNC0591;M;46-55;Superior Incompleto;7.4;CLT;Híbrido;Fortaleza;Não
+FUNC0592;M;56+;Ensino Médio;4.9;CLT;Presencial;Teresina;Não
+FUNC0593;M;26-35;Ensino Médio;6.9;PJ;Presencial;Natal;Não
+FUNC0594;F;36-45;Superior Completo;1.1;CLT;Presencial;Natal;Não
+FUNC0595;F;36-45;Pós-graduação;10.5;CLT;Presencial;Fortaleza;Não
+FUNC0596;M;36-45;Ensino Médio;11.3;CLT;Híbrido;Fortaleza;Não
+FUNC0597;M;46-55;Pós-graduação;5.0;CLT;Presencial;João Pessoa;Não
+FUNC0598;M;36-45;Superior Completo;1.8;CLT;Híbrido;Natal;Não
+FUNC0599;M;36-45;Superior Incompleto;3.6;PJ;Híbrido;João Pessoa;Não
+FUNC0600;M;26-35;Pós-graduação;0.3;PJ;Remoto;Teresina;Não
+FUNC0601;F;46-55;Superior Completo;3.5;CLT;Presencial;Teresina;Não
+FUNC0602;M;26-35;Superior Completo;3.4;CLT;Presencial;Natal;Sim
+FUNC0603;F;36-45;Superior Incompleto;8.1;CLT;Presencial;Recife;Não
+FUNC0604;M;36-45;Ensino Médio;6.3;CLT;Presencial;João Pessoa;Não
+FUNC0605;F;26-35;Superior Completo;2.2;CLT;Híbrido;Fortaleza;Não
+FUNC0606;M;26-35;Superior Completo;5.6;CLT;Presencial;Natal;Sim
+FUNC0607;M;26-35;Pós-graduação;0.2;CLT;Híbrido;Recife;Não
+FUNC0608;M;46-55;Pós-graduação;1.8;CLT;Híbrido;Fortaleza;Não
+FUNC0609;F;18-25;Superior Completo;7.6;CLT;Remoto;Recife;Não
+FUNC0610;F;46-55;Pós-graduação;6.8;CLT;Híbrido;Teresina;Não
+FUNC0611;M;46-55;Superior Completo;1.7;CLT;Remoto;Natal;Não
+FUNC0612;M;18-25;Ensino Médio;3.5;CLT;Presencial;João Pessoa;Não
+FUNC0613;M;36-45;Ensino Médio;5.7;CLT;Híbrido;Natal;Não
+FUNC0614;F;26-35;Ensino Médio;6.6;CLT;Presencial;Natal;Não
+FUNC0615;M;36-45;Ensino Médio;5.7;CLT;Híbrido;Natal;Não
+FUNC0616;M;36-45;Superior Completo;0.9;CLT;Presencial;Teresina;Não
+FUNC0617;F;46-55;Superior Completo;2.7;CLT;Presencial;João Pessoa;Não
+FUNC0618;F;36-45;Ensino Médio;3.3;CLT;Híbrido;Recife;Não
+FUNC0619;M;46-55;Superior Completo;3.1;CLT;Presencial;João Pessoa;Não
+FUNC0620;F;36-45;Ensino Médio;0.3;PJ;Remoto;João Pessoa;Sim
+FUNC0621;M;46-55;Superior Incompleto;4.2;CLT;Remoto;Natal;Não
+FUNC0622;M;56+;Superior Completo;2.6;PJ;Híbrido;Natal;Não
+FUNC0623;F;36-45;Superior Completo;5.6;CLT;Híbrido;João Pessoa;Não
+FUNC0624;F;56+;Superior Completo;2.0;CLT;Híbrido;Recife;Não
+FUNC0625;F;26-35;Superior Completo;0.9;CLT;Presencial;João Pessoa;Não
+FUNC0626;F;36-45;Superior Completo;2.1;CLT;Híbrido;João Pessoa;Não
+FUNC0627;M;18-25;Superior Completo;8.3;CLT;Presencial;Recife;Não
+FUNC0628;M;36-45;Superior Completo;5.4;CLT;Híbrido;Natal;Não
+FUNC0629;M;26-35;Superior Incompleto;4.8;CLT;Presencial;Recife;Não
+FUNC0630;M;46-55;Ensino Médio;5.7;CLT;Híbrido;João Pessoa;Não
+FUNC0631;M;36-45;Superior Completo;4.7;CLT;Híbrido;Recife;Não
+FUNC0632;F;18-25;Superior Completo;3.1;PJ;Remoto;João Pessoa;Não
+FUNC0633;M;36-45;Ensino Médio;7.1;CLT;Presencial;Recife;Não
+FUNC0634;M;18-25;Pós-graduação;9.5;CLT;Remoto;Recife;Não
+FUNC0635;F;26-35;Pós-graduação;0.5;CLT;Híbrido;João Pessoa;Não
+FUNC0636;M;18-25;Pós-graduação;6.1;CLT;Híbrido;Recife;Não
+FUNC0637;M;26-35;Superior Completo;8.5;CLT;Híbrido;João Pessoa;Não
+FUNC0638;M;18-25;Superior Completo;0.7;CLT;Remoto;Fortaleza;Não
+FUNC0639;F;36-45;Pós-graduação;1.2;CLT;Presencial;Recife;Não
+FUNC0640;F;26-35;Superior Completo;6.9;CLT;Híbrido;Natal;Não
+FUNC0641;F;26-35;Pós-graduação;4.2;CLT;Remoto;Teresina;Não
+FUNC0642;M;26-35;Superior Incompleto;4.3;CLT;Híbrido;Fortaleza;Não
+FUNC0643;M;36-45;Superior Completo;3.8;CLT;Remoto;Teresina;Não
+FUNC0644;F;56+;Pós-graduação;5.8;CLT;Presencial;Teresina;Não
+FUNC0645;M;26-35;Ensino Médio;3.2;CLT;Presencial;Recife;Não
+FUNC0646;M;26-35;Pós-graduação;8.0;CLT;Presencial;Fortaleza;Não
+FUNC0647;F;46-55;Ensino Médio;2.3;CLT;Remoto;Fortaleza;Não
+FUNC0648;M;26-35;Superior Completo;4.4;CLT;Híbrido;Teresina;Não
+FUNC0649;M;46-55;Pós-graduação;5.5;CLT;Híbrido;João Pessoa;Sim
+FUNC0650;F;26-35;Ensino Médio;3.9;CLT;Híbrido;Fortaleza;Não
+FUNC0651;M;36-45;Superior Incompleto;5.0;CLT;Híbrido;Natal;Sim
+FUNC0652;M;36-45;Superior Completo;6.1;CLT;Remoto;Natal;Não
+FUNC0653;M;26-35;Ensino Médio;9.0;CLT;Híbrido;Fortaleza;Não
+FUNC0654;M;36-45;Superior Completo;6.3;CLT;Híbrido;Natal;Não
+FUNC0655;F;36-45;Superior Incompleto;0.3;CLT;Presencial;Natal;Não
+FUNC0656;F;36-45;Ensino Médio;4.4;CLT;Híbrido;Fortaleza;Não
+FUNC0657;M;18-25;Superior Completo;3.6;CLT;Remoto;Fortaleza;Não
+FUNC0658;M;26-35;Pós-graduação;1.7;CLT;Híbrido;Fortaleza;Não
+FUNC0659;F;46-55;Ensino Médio;8.9;CLT;Presencial;Recife;Não
+FUNC0660;M;26-35;Pós-graduação;2.4;CLT;Híbrido;Recife;Não
+FUNC0661;M;36-45;Pós-graduação;5.8;CLT;Presencial;Recife;Não
+FUNC0662;F;36-45;Ensino Médio;3.0;CLT;Presencial;João Pessoa;Não
+FUNC0663;F;46-55;Ensino Médio;6.0;CLT;Remoto;Teresina;Não
+FUNC0664;F;18-25;Ensino Médio;6.1;CLT;Híbrido;Teresina;Não
+FUNC0665;M;36-45;Superior Completo;0.5;PJ;Remoto;João Pessoa;Não
+FUNC0666;M;36-45;Superior Completo;7.7;CLT;Presencial;Fortaleza;Não
+FUNC0667;F;26-35;Superior Completo;8.3;CLT;Presencial;Fortaleza;Não
+FUNC0668;F;56+;Superior Completo;6.6;CLT;Presencial;Natal;Não
+FUNC0669;F;26-35;Superior Completo;4.1;CLT;Presencial;Natal;Não
+FUNC0670;M;46-55;Ensino Médio;4.7;CLT;Híbrido;Natal;Não
+FUNC0671;F;36-45;Ensino Médio;6.0;CLT;Presencial;Fortaleza;Não
+FUNC0672;M;36-45;Superior Completo;2.0;CLT;Híbrido;Teresina;Não
+FUNC0673;M;36-45;Pós-graduação;0.6;CLT;Híbrido;Recife;Não
+FUNC0674;F;36-45;Superior Completo;1.6;CLT;Presencial;Natal;Não
+FUNC0675;M;26-35;Superior Incompleto;3.1;CLT;Híbrido;Recife;Não
+FUNC0676;M;26-35;Superior Completo;3.8;CLT;Híbrido;Teresina;Não
+FUNC0677;M;26-35;Superior Incompleto;5.0;CLT;Remoto;Natal;Não
+FUNC0678;M;36-45;Superior Completo;6.9;CLT;Presencial;João Pessoa;Não
+FUNC0679;M;56+;Pós-graduação;4.8;CLT;Híbrido;João Pessoa;Não
+FUNC0680;M;36-45;Superior Completo;6.9;CLT;Presencial;Recife;Não
+FUNC0681;F;36-45;Superior Completo;2.0;CLT;Híbrido;Natal;Não
+FUNC0682;F;36-45;Superior Incompleto;0.2;CLT;Híbrido;João Pessoa;Não
+FUNC0683;M;46-55;Superior Incompleto;3.4;CLT;Remoto;João Pessoa;Não
+FUNC0684;M;18-25;Ensino Médio;12.1;CLT;Híbrido;Recife;Não
+FUNC0685;M;46-55;Ensino Médio;0.3;CLT;Híbrido;Natal;Não
+FUNC0686;F;18-25;Pós-graduação;3.8;CLT;Híbrido;João Pessoa;Não
+FUNC0687;M;36-45;Superior Completo;3.7;CLT;Presencial;Recife;Não
+FUNC0688;M;18-25;Ensino Médio;1.9;PJ;Presencial;Fortaleza;Não
+FUNC0689;M;56+;Superior Completo;4.7;CLT;Híbrido;Natal;Não
+FUNC0690;M;26-35;Ensino Médio;7.4;CLT;Presencial;Recife;Não
+FUNC0691;M;26-35;Superior Completo;1.0;CLT;Presencial;Teresina;Não
+FUNC0692;F;46-55;Superior Completo;0.7;PJ;Híbrido;Natal;Não
+FUNC0693;M;26-35;Superior Completo;1.1;CLT;Híbrido;Fortaleza;Não
+FUNC0694;F;26-35;Superior Incompleto;6.5;CLT;Híbrido;Recife;Sim
+FUNC0695;M;36-45;Superior Completo;3.1;CLT;Remoto;Recife;Não
+FUNC0696;M;46-55;Ensino Médio;6.1;CLT;Remoto;Recife;Não
+FUNC0697;F;18-25;Superior Completo;0.7;CLT;Remoto;João Pessoa;Não
+FUNC0698;F;36-45;Ensino Médio;6.9;CLT;Presencial;Fortaleza;Não
+FUNC0699;F;36-45;Ensino Médio;4.1;PJ;Remoto;João Pessoa;Não
+FUNC0700;F;26-35;Ensino Médio;5.4;CLT;Híbrido;Teresina;Não
+FUNC0701;M;36-45;Pós-graduação;10.6;CLT;Presencial;João Pessoa;Não
+FUNC0702;M;26-35;Ensino Médio;5.4;CLT;Presencial;João Pessoa;Não
+FUNC0703;M;26-35;Pós-graduação;2.5;CLT;Híbrido;João Pessoa;Não
+FUNC0704;M;36-45;Ensino Médio;4.4;CLT;Presencial;Recife;Não
+FUNC0705;F;46-55;Superior Completo;9.3;CLT;Híbrido;Recife;Não
+FUNC0706;F;56+;Superior Completo;6.7;PJ;Híbrido;João Pessoa;Não
+FUNC0707;F;36-45;Superior Completo;6.1;CLT;Presencial;Natal;Não
+FUNC0708;M;56+;Pós-graduação;8.1;CLT;Híbrido;Teresina;Não
+FUNC0709;F;36-45;Superior Completo;3.7;CLT;Híbrido;Teresina;Não
+FUNC0710;F;26-35;Superior Completo;0.3;CLT;Presencial;João Pessoa;Não
+FUNC0711;M;26-35;Superior Completo;6.7;CLT;Remoto;Fortaleza;Não
+FUNC0712;M;18-25;Superior Completo;5.6;CLT;Presencial;João Pessoa;Não
+FUNC0713;M;26-35;Superior Completo;4.9;CLT;Remoto;Recife;Não
+FUNC0714;M;36-45;Ensino Médio;5.2;CLT;Híbrido;Natal;Não
+FUNC0715;F;26-35;Superior Completo;9.1;CLT;Remoto;Teresina;Não
+FUNC0716;M;18-25;Superior Incompleto;7.8;CLT;Híbrido;Recife;Não
+FUNC0717;M;26-35;Superior Completo;12.1;CLT;Híbrido;Recife;Sim
+FUNC0718;M;26-35;Superior Incompleto;4.4;CLT;Remoto;Natal;Não
+FUNC0719;M;26-35;Pós-graduação;3.7;CLT;Híbrido;Natal;Não
+FUNC0720;F;36-45;Superior Incompleto;0.1;CLT;Presencial;Recife;Não
+FUNC0721;M;26-35;Superior Completo;3.0;CLT;Híbrido;Fortaleza;Não
+FUNC0722;M;46-55;Superior Completo;2.2;CLT;Remoto;Fortaleza;Não
+FUNC0723;F;18-25;Superior Incompleto;0.6;CLT;Remoto;Fortaleza;Não
+FUNC0724;F;36-45;Ensino Médio;5.9;CLT;Remoto;Recife;Não
+FUNC0725;F;36-45;Pós-graduação;5.3;CLT;Presencial;Teresina;Não
+FUNC0726;M;26-35;Superior Completo;5.8;PJ;Remoto;Recife;Não
+FUNC0727;M;36-45;Ensino Médio;1.9;CLT;Híbrido;Natal;Não
+FUNC0728;F;26-35;Superior Completo;4.5;CLT;Presencial;Recife;Não
+FUNC0729;M;26-35;Pós-graduação;0.0;CLT;Presencial;João Pessoa;Não
+FUNC0730;F;26-35;Superior Incompleto;9.5;CLT;Presencial;Fortaleza;Não
+FUNC0731;F;46-55;Superior Completo;7.5;PJ;Híbrido;João Pessoa;Não
+FUNC0732;M;26-35;Superior Incompleto;5.0;CLT;Presencial;Recife;Não
+FUNC0733;F;36-45;Superior Completo;5.3;CLT;Híbrido;Fortaleza;Não
+FUNC0734;M;36-45;Superior Completo;4.0;CLT;Remoto;João Pessoa;Não
+FUNC0735;F;46-55;Ensino Médio;5.4;CLT;Presencial;Natal;Não
+FUNC0736;M;36-45;Superior Incompleto;3.0;CLT;Remoto;Natal;Não
+FUNC0737;F;36-45;Superior Incompleto;5.7;CLT;Híbrido;Fortaleza;Não
+FUNC0738;M;18-25;Superior Completo;1.9;CLT;Híbrido;Recife;Não
+FUNC0739;M;26-35;Superior Incompleto;4.0;CLT;Presencial;Fortaleza;Não
+FUNC0740;M;26-35;Superior Completo;7.3;CLT;Presencial;Natal;Não
+FUNC0741;F;26-35;Superior Incompleto;8.4;CLT;Híbrido;João Pessoa;Não
+FUNC0742;M;26-35;Pós-graduação;3.1;CLT;Híbrido;Fortaleza;Não
+FUNC0743;F;26-35;Superior Incompleto;0.1;CLT;Presencial;Recife;Não
+FUNC0744;M;26-35;Superior Completo;0.7;CLT;Presencial;Teresina;Não
+FUNC0745;M;36-45;Superior Incompleto;3.3;CLT;Remoto;Teresina;Não
+FUNC0746;M;26-35;Superior Completo;1.1;CLT;Presencial;Fortaleza;Não
+FUNC0747;F;26-35;Superior Completo;8.7;CLT;Híbrido;Natal;Não
+FUNC0748;M;26-35;Pós-graduação;5.6;CLT;Híbrido;Fortaleza;Não
+FUNC0749;F;26-35;Ensino Médio;6.2;PJ;Híbrido;Natal;Não
+FUNC0750;M;56+;Superior Completo;8.1;CLT;Presencial;João Pessoa;Não
+FUNC0751;F;36-45;Pós-graduação;2.2;CLT;Presencial;Fortaleza;Não
+FUNC0752;M;36-45;Superior Completo;3.0;CLT;Híbrido;João Pessoa;Não
+FUNC0753;M;26-35;Superior Completo;5.3;CLT;Presencial;Teresina;Não
+FUNC0754;M;36-45;Pós-graduação;4.4;CLT;Remoto;Natal;Não
+FUNC0755;M;26-35;Ensino Médio;1.9;PJ;Presencial;Fortaleza;Não
+FUNC0756;M;26-35;Ensino Médio;1.9;CLT;Híbrido;Fortaleza;Não
+FUNC0757;M;26-35;Superior Incompleto;1.2;CLT;Remoto;Fortaleza;Não
+FUNC0758;F;46-55;Pós-graduação;4.3;CLT;Presencial;Natal;Não
+FUNC0759;M;56+;Superior Completo;0.2;PJ;Presencial;Recife;Não
+FUNC0760;F;26-35;Pós-graduação;1.5;CLT;Presencial;Natal;Não
+FUNC0761;M;46-55;Superior Completo;7.7;CLT;Presencial;Recife;Não
+FUNC0762;M;26-35;Superior Completo;3.6;PJ;Híbrido;Natal;Não
+FUNC0763;F;46-55;Ensino Médio;1.6;CLT;Presencial;Teresina;Não
+FUNC0764;M;36-45;Superior Completo;7.9;CLT;Presencial;Natal;Não
+FUNC0765;F;26-35;Superior Completo;2.8;CLT;Híbrido;Teresina;Não
+FUNC0766;M;46-55;Superior Incompleto;1.0;CLT;Presencial;Natal;Não
+FUNC0767;M;26-35;Ensino Médio;0.6;CLT;Presencial;Fortaleza;Não
+FUNC0768;M;46-55;Ensino Médio;6.9;PJ;Híbrido;Recife;Não
+FUNC0769;F;36-45;Ensino Médio;4.0;PJ;Remoto;Recife;Sim
+FUNC0770;M;36-45;Superior Incompleto;5.1;CLT;Presencial;João Pessoa;Não
+FUNC0771;M;26-35;Ensino Médio;8.6;CLT;Híbrido;Teresina;Sim
+FUNC0772;M;26-35;Pós-graduação;2.6;CLT;Remoto;Natal;Não
+FUNC0773;F;18-25;Superior Completo;1.2;CLT;Presencial;Fortaleza;Não
+FUNC0774;M;56+;Superior Completo;9.9;CLT;Remoto;Fortaleza;Não
+FUNC0775;M;26-35;Ensino Médio;7.4;CLT;Presencial;Fortaleza;Não
+FUNC0776;M;36-45;Superior Completo;5.7;CLT;Presencial;Fortaleza;Não
+FUNC0777;M;36-45;Ensino Médio;3.8;PJ;Híbrido;Fortaleza;Não
+FUNC0778;F;46-55;Ensino Médio;4.1;CLT;Presencial;Recife;Não
+FUNC0779;M;36-45;Ensino Médio;2.5;CLT;Presencial;Natal;Não
+FUNC0780;M;18-25;Pós-graduação;2.2;PJ;Presencial;João Pessoa;Não
+FUNC0781;F;46-55;Superior Completo;1.3;CLT;Presencial;João Pessoa;Não
+FUNC0782;M;46-55;Pós-graduação;3.4;CLT;Remoto;Fortaleza;Não
+FUNC0783;M;36-45;Ensino Médio;8.9;CLT;Presencial;Fortaleza;Não
+FUNC0784;F;26-35;Superior Completo;2.3;CLT;Remoto;Natal;Não
+FUNC0785;F;46-55;Pós-graduação;7.8;CLT;Híbrido;Recife;Não
+FUNC0786;M;46-55;Superior Completo;6.6;CLT;Remoto;Teresina;Não
+FUNC0787;M;36-45;Superior Completo;2.0;CLT;Presencial;João Pessoa;Não
+FUNC0788;M;36-45;Superior Completo;8.2;CLT;Remoto;Fortaleza;Não
+FUNC0789;F;26-35;Superior Completo;5.7;CLT;Presencial;João Pessoa;Não
+FUNC0790;M;26-35;Superior Completo;3.7;CLT;Remoto;João Pessoa;Não
+FUNC0791;F;26-35;Ensino Médio;5.1;CLT;Remoto;Teresina;Não
+FUNC0792;F;36-45;Ensino Médio;3.3;CLT;Híbrido;Natal;Não
+FUNC0793;M;36-45;Superior Incompleto;9.6;PJ;Híbrido;Fortaleza;Não
+FUNC0794;F;26-35;Superior Incompleto;4.2;PJ;Híbrido;Teresina;Não
+FUNC0795;M;36-45;Ensino Médio;5.5;CLT;Presencial;João Pessoa;Não
+FUNC0796;F;18-25;Pós-graduação;8.2;CLT;Híbrido;Teresina;Não
+FUNC0797;M;26-35;Ensino Médio;3.7;CLT;Presencial;Natal;Não
+FUNC0798;F;36-45;Superior Completo;7.1;PJ;Presencial;Recife;Não
+FUNC0799;M;46-55;Superior Completo;12.0;CLT;Híbrido;Fortaleza;Não
+FUNC0800;F;36-45;Ensino Médio;4.6;PJ;Remoto;Natal;Não
+FUNC0801;M;46-55;Superior Completo;9.1;CLT;Remoto;Natal;Não
+FUNC0802;M;36-45;Ensino Médio;3.4;CLT;Híbrido;João Pessoa;Sim
+FUNC0803;M;56+;Superior Completo;4.9;CLT;Presencial;Recife;Sim
+FUNC0804;M;18-25;Superior Completo;7.9;CLT;Híbrido;Natal;Não
+FUNC0805;F;46-55;Ensino Médio;7.2;CLT;Híbrido;Natal;Não
+FUNC0806;M;26-35;Pós-graduação;6.1;CLT;Presencial;Fortaleza;Não
+FUNC0807;M;36-45;Superior Completo;6.2;CLT;Remoto;Teresina;Não
+FUNC0808;M;36-45;Superior Completo;1.4;PJ;Híbrido;Natal;Não
+FUNC0809;F;26-35;Ensino Médio;8.4;CLT;Presencial;Fortaleza;Não
+FUNC0810;F;46-55;Pós-graduação;10.3;CLT;Presencial;Fortaleza;Não
+FUNC0811;F;36-45;Pós-graduação;5.3;CLT;Híbrido;João Pessoa;Não
+FUNC0812;F;18-25;Superior Completo;4.2;CLT;Presencial;Teresina;Não
+FUNC0813;M;26-35;Superior Completo;2.3;PJ;Presencial;Fortaleza;Não
+FUNC0814;M;26-35;Pós-graduação;10.4;CLT;Presencial;João Pessoa;Não
+FUNC0815;M;46-55;Pós-graduação;0.8;CLT;Presencial;Fortaleza;Não
+FUNC0816;F;26-35;Superior Incompleto;2.4;CLT;Presencial;Fortaleza;Não
+FUNC0817;F;46-55;Superior Completo;1.6;CLT;Híbrido;João Pessoa;Não
+FUNC0818;M;46-55;Superior Completo;6.1;CLT;Híbrido;Teresina;Não
+FUNC0819;F;36-45;Superior Completo;1.4;CLT;Presencial;Teresina;Não
+FUNC0820;M;26-35;Ensino Médio;1.8;CLT;Híbrido;Recife;Não
+FUNC0821;F;18-25;Superior Completo;8.6;CLT;Remoto;Fortaleza;Não
+FUNC0822;F;26-35;Ensino Médio;10.7;CLT;Presencial;Teresina;Não
+FUNC0823;M;36-45;Superior Completo;4.1;CLT;Híbrido;Recife;Não
+FUNC0824;M;26-35;Ensino Médio;2.0;CLT;Presencial;Teresina;Não
+FUNC0825;F;26-35;Superior Completo;5.5;CLT;Presencial;Natal;Não
+FUNC0826;M;46-55;Ensino Médio;6.4;CLT;Presencial;Natal;Não
+FUNC0827;M;46-55;Pós-graduação;5.9;CLT;Remoto;Teresina;Não
+FUNC0828;M;36-45;Superior Completo;6.4;CLT;Remoto;João Pessoa;Não
+FUNC0829;M;36-45;Superior Completo;0.3;CLT;Remoto;Recife;Não
+FUNC0830;M;46-55;Ensino Médio;0.2;CLT;Presencial;Teresina;Não
+FUNC0831;M;36-45;Ensino Médio;4.6;CLT;Híbrido;Teresina;Não
+FUNC0832;M;56+;Superior Completo;4.3;CLT;Presencial;Teresina;Não
+FUNC0833;M;26-35;Superior Completo;5.0;PJ;Presencial;Natal;Não
+FUNC0834;F;26-35;Pós-graduação;3.2;CLT;Presencial;Teresina;Sim
+FUNC0835;M;36-45;Pós-graduação;6.7;CLT;Presencial;Fortaleza;Não
+FUNC0836;F;56+;Superior Incompleto;2.5;CLT;Remoto;Natal;Não
+FUNC0837;M;26-35;Ensino Médio;6.0;CLT;Presencial;Natal;Não
+FUNC0838;M;46-55;Superior Incompleto;7.0;CLT;Remoto;Fortaleza;Não
+FUNC0839;M;46-55;Superior Incompleto;9.7;CLT;Híbrido;Teresina;Não
+FUNC0840;M;26-35;Superior Completo;1.6;CLT;Híbrido;Fortaleza;Não
+FUNC0841;M;26-35;Pós-graduação;3.2;PJ;Híbrido;Fortaleza;Não
+FUNC0842;M;26-35;Superior Completo;5.3;PJ;Híbrido;Recife;Não
+FUNC0843;M;26-35;Superior Completo;9.3;CLT;Presencial;Fortaleza;Não
+FUNC0844;F;46-55;Ensino Médio;2.8;CLT;Presencial;Fortaleza;Não
+FUNC0845;M;26-35;Superior Incompleto;5.8;PJ;Remoto;Recife;Não
+FUNC0846;F;46-55;Superior Completo;6.2;CLT;Presencial;Teresina;Não
+FUNC0847;M;46-55;Superior Completo;4.9;CLT;Remoto;Fortaleza;Não
+FUNC0848;M;36-45;Ensino Médio;10.4;PJ;Remoto;Recife;Sim
+FUNC0849;M;36-45;Ensino Médio;1.4;CLT;Presencial;Teresina;Não
+FUNC0850;F;26-35;Superior Completo;2.7;CLT;Presencial;Recife;Não
